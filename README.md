@@ -18,6 +18,7 @@ production use.
 Plugin is known to work on following platforms/Err backends:
 
 - CentOS 7.2 / Telegram
+- Debian 8 / Slack
 
 Installation
 ------------
